@@ -1,0 +1,6 @@
+interface:
+  display_name: "Dev Ones App"
+  short_description: "Convert ONES App requirements into spec-backed `.opkx` solutions that can be evaluated, built, and delivered."
+  icon_small: "./assets/ones-small.svg"
+  icon_large: "./assets/ones.jpeg"
+  default_prompt: "Evaluate ONES App requirements against local ONES App specs, map supported capabilities, and design or implement spec-backed `.opkx` solutions for build and delivery."

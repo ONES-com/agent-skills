@@ -27,7 +27,7 @@ Although the repository currently includes one published skill, it is structured
 
 | Skill | Summary | Best For |
 | --- | --- | --- |
-| [`dev-ones-app`](./dev-ones-app) | Build and deliver ONES Apps based on local ONES App specs, with guidance for evaluation, design, implementation, packaging, and verification. | Teams building ONES plugins, hosted apps, or `.opkx` deliverables |
+| [dev&#8209;ones&#8209;app](./dev-ones-app) | Build and deliver ONES Apps based on local ONES App specs, with guidance for evaluation, design, implementation, packaging, and verification. | Teams building ONES plugins, hosted apps, or `.opkx` deliverables |
 
 ## Quick Start
 
